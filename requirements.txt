@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+python-pptx
+requests
+sqlalchemy
+psycopg2-binary
+python-dotenv
